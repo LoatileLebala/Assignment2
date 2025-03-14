@@ -5,6 +5,7 @@ editor: visual
 ---
 
 ```{r}
+#| echo: true
 set.seed(123)  # For reproducibility
 
 # Parameters

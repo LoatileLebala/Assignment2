@@ -5,7 +5,6 @@ editor: visual
 ---
 
 ```{r}
-{r}
 #| echo: true
 install.packages("foreach")
 
